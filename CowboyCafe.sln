@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CowboyCafe", "CowboyCafe\CowboyCafe.csproj", "{8754A8EB-B266-43B4-BB98-194FD920BF8C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CowboyCafe", "CowboyCafe\CowboyCafe.csproj", "{FA217006-0CF6-4B7F-BAAE-2D37B97C2044}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8754A8EB-B266-43B4-BB98-194FD920BF8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8754A8EB-B266-43B4-BB98-194FD920BF8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8754A8EB-B266-43B4-BB98-194FD920BF8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8754A8EB-B266-43B4-BB98-194FD920BF8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA217006-0CF6-4B7F-BAAE-2D37B97C2044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA217006-0CF6-4B7F-BAAE-2D37B97C2044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA217006-0CF6-4B7F-BAAE-2D37B97C2044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA217006-0CF6-4B7F-BAAE-2D37B97C2044}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
